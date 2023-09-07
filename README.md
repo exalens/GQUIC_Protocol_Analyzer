@@ -202,3 +202,6 @@ With assistance from:
 ### References:
 * https://docs.google.com/document/d/1g5nIXAIkN_Y-7XJW5K45IblHd_L2f5LTaDUDwvZ5L6g
 * https://docs.google.com/document/d/1WJvyZflAO2pq77yOLbp9NsGjC1CHetAXV8I0fQe-B_U
+
+## Changelog
+7th September 2023: Change cmake version to 3.15
